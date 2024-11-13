@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_velocidade", "exercicio_velocidade\exercicio_velocidade.csproj", "{A934A4DE-8B26-4FF4-B980-8EE74E376916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A934A4DE-8B26-4FF4-B980-8EE74E376916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A934A4DE-8B26-4FF4-B980-8EE74E376916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A934A4DE-8B26-4FF4-B980-8EE74E376916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A934A4DE-8B26-4FF4-B980-8EE74E376916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8DE4E7-6B09-4C0F-9FD3-E24D2A31FAC6}
+	EndGlobalSection
+EndGlobal
